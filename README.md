@@ -6,8 +6,10 @@ Hi there! In this project, I explored a 5x5 gridworld environment using Q-Learni
 ### What's Inside
 
 **Q-Learning** : I used this algorithm to learn optimal policies by updating the action-value function based on rewards and transitions.
-Simple Gridworld: A basic environment to demonstrate Q-Learning.
-Modified Gridworld: An environment with terminal states (black squares) for more complex scenarios.
+
+**Simple Gridworld** : A basic environment to demonstrate Q-Learning.
+
+**Modified Gridworld** : An environment with terminal states (black squares) for more complex scenarios.
 
 ### How Q-Learning Works
 ### Formula:
