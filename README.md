@@ -3,8 +3,9 @@
 
 Hi there! In this project, I explored a 5x5 gridworld environment using Q-Learning, a popular reinforcement learning algorithm. The gridworld has 25 states, and the agent can move up, down, left, or right. Special states offer different rewards, influencing the agent's behavior.
 
-What's Inside
-Q-Learning: I used this algorithm to learn optimal policies by updating the action-value function based on rewards and transitions.
+### What's Inside
+
+**Q-Learning** : I used this algorithm to learn optimal policies by updating the action-value function based on rewards and transitions.
 Simple Gridworld: A basic environment to demonstrate Q-Learning.
 Modified Gridworld: An environment with terminal states (black squares) for more complex scenarios.
 
