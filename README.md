@@ -34,4 +34,5 @@ Q(s,a)←Q(s,a)+α[r+γmaxa′Q(s′,a′) − Q(s,a)]
 ### Rewards
 
 Moving to another white square: -0.2
+
 Moving off the grid: -0.5
