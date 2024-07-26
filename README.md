@@ -20,10 +20,15 @@ Q(s,a)←Q(s,a)+α[r+γmaxa′Q(s′,a′) − Q(s,a)]
 
 ### Environment Setup
 ### Special States and Rewards
+
 **Blue** : Any action yields a reward of 5 and jumps to Red.
+
 **Green** : Any action yields a reward of 2.5 and jumps to Yellow or Red with a probability of 0.5.
+
 **Red** : Terminal state.
+
 **Yellow** : Terminal state.
+
 **Black** : Terminal states added in the modified gridworld.
 
 ### Rewards
