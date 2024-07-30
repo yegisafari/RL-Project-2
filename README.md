@@ -39,3 +39,14 @@ Q(s,a)←Q(s,a)+α[r+γmaxa′Q(s′,a′) − Q(s,a)]
 Moving to another white square: -0.2
 
 Moving off the grid: -0.5
+
+### Doing this Project I got help from:
+
+1. The class lectures content
+2. YouTube
+3. These websites:
+
+(https://gurpreet-ai.github.io/policy-evaluation-deep-reinforcement-learning-series/)
+
+(https://medium.com/@edu.pignatelli/iterative-policy-evaluation-33056f3f21a4)
+
